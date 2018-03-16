@@ -1,0 +1,7 @@
+{ 
+  "redirections": [ 
+    {
+       "source_path": "adam-cogan",
+       "redirect_url": "adam.cogan",
+       "redirect_document_id": true
+    }
